@@ -1,6 +1,10 @@
 #!/usr/bin/python2
 
-import sys, time
+# This work is released under public domain.
+# Contact: oleander@oleander.cc
+# github: https://github.com/fleischhoernchen/faceblur
+
+import sys
 import cv
 
 def detectObject(image):
